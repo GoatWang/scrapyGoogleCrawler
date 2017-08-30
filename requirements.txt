@@ -4,6 +4,8 @@ nltk
 pandas
 pymongo
 requests
-Scrapy
 selenium
+pylint
+subprocess
 # Twisted
+# Scrapy
