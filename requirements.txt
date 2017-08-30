@@ -7,5 +7,5 @@ requests
 selenium
 pylint
 subprocess
-# Twisted
-# Scrapy
+Twisted
+Scrapy
