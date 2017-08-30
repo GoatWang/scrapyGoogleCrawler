@@ -1,0 +1,9 @@
+bs4
+lxml
+nltk 
+pandas
+pymongo
+requests
+Scrapy
+selenium
+# Twisted
