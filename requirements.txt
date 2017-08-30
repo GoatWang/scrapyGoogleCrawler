@@ -6,6 +6,5 @@ pymongo
 requests
 selenium
 pylint
-subprocess
 Twisted
 Scrapy
